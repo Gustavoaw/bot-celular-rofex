@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import plotly.graph_objects as gr
 import streamlit as st
-import pyrofex
+import pyRofex
 import yfinance as yf
 
 # Configuración móvil
